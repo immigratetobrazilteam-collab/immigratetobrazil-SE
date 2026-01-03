@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #F0FFFF;
+    color: #006400;
+}
+
+h1, h2 {
+    font-family: Relax, serif;
+    color: #228B22;
+}
+
+a {
+    color: #00CED1;
+}
+
+section {
+    padding: 3rem;
+}
