@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Immigrate to Sergipe",
+  "description": "Sergipe is a state in Northeast Brazil with a coastline featuring beaches, mangroves, and the S\u00e3o Francisco River. Its economy focuses on agriculture like sugarcane, coconuts, and oranges, with Aracaju as the capital. Key attractions include colonial sites in S\u00e3o Crist\u00f3v\u00e3o and the Xing\u00f3 Canyon.",
+  "keywords": "Sergipe, Aracaju, S\u00e3o Francisco River, beaches, sugarcane, coconuts, Xing\u00f3 Canyon",
+  "url": "https://immigratetobrazil.com/se/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Sergipe",
+    "addressCountry": "BR"
+  },
+  "sameAs": [
+    "https://censo2022.ibge.gov.br/panorama/",
+    "https://www.ibge.gov.br/en/statistics/economic/national-accounts/19567-gross-domestic-product-of-municipalities.html",
+    "http://www.atlasbrasil.org.br/ranking"
+  ]
+}
