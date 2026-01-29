@@ -1,1098 +1,664 @@
-se/
+SE/
 ├─ index.html
-│  ├─ se-index-section-immigrate-to-sergipe
-│  ├─ se-index-form-immigrate-to-sergipe
-│  ├─ se-index-section-state-vibe
-│  ├─ se-index-section-quick-facts-snapshot
-│  ├─ se-index-section-sergipe-map
-│  ├─ se-index-section-cost-of-living-sergipe
-│  ├─ se-index-section-government-context
-│  ├─ se-index-hero-immigration-notes
-│  ├─ se-index-list-common-applicant-profiles
-│  ├─ se-index-list-economic-drivers
-│  ├─ se-index-section-demographics
-│  ├─ se-index-section-regional-challenges
-│  ├─ se-index-section-regional-opportunities
-│  ├─ se-index-section-culture-daily-life
-│  ├─ se-index-list-local-language-expressions
-│  ├─ se-index-list-food-cuisine
-│  ├─ se-index-list-festivals-traditions
-│  ├─ se-index-list-music-artistic-expression
-│  ├─ se-index-list-sports-recreation
-│  ├─ se-index-list-landmarks-historical-sites
-│  ├─ se-index-list-natural-features
-│  ├─ se-index-list-parks-protected-areas
-│  ├─ se-index-list-museums-cultural-institutions
-│  ├─ se-index-section-image-gallery
-│  ├─ se-index-section-useful-government-links
-│  ├─ se-index-hero-federal-police-immigration-links
-│  ├─ se-index-section-external-references
-│  ├─ se-index-list-immigration-services-overview
-│  ├─ se-index-section-why-immigrate-here
-│  ├─ se-index-section-legal-guidance-disclaimers
-│  ├─ contact
-│  ├─ se-index-list-travel-services
-│  ├─ se-index-list-how-the-process-works
-│  ├─ se-index-section--frequently-asked-questions-about-living-in-sergipe-
-│  ├─ contact
+│  ├─ se-index-section--map
+│  ├─ se-index-section-frequently-asked-questions-about-living-in-
+│  ├─ se-index-contact
 
-├─ contact-cta.html
-│  ├─ se-contactcta-section-get-started-in-sergipe
+├─ footer.html
+│  ├─ main-footer
 
-├─ renouncing-citizenship.html
-│  ├─ se-renouncingcitizenship-form-renounce-brazilian-citizenship
-│  ├─ se-renouncingcitizenship-list-quick-facts
-│  ├─ se-renouncingcitizenship-list-common-challenges-applicants-face
-│  ├─ se-renouncingcitizenship-list-how-we-solve-these-challenges
-│  ├─ se-renouncingcitizenship-section-renunciation-overview
-│  ├─ se-renouncingcitizenship-form-who-is-this-for
-│  ├─ se-renouncingcitizenship-list-required-documents
-│  ├─ se-renouncingcitizenship-list-process
-│  ├─ se-renouncingcitizenship-section-timelines-deadlines
-│  ├─ se-renouncingcitizenship-section-fees-costs
-│  ├─ se-renouncingcitizenship-list-risks-common-mistakes
-│  ├─ se-renouncingcitizenship-section-diy-vs-professional-assistance
-│  ├─ se-renouncingcitizenship-section-sergipe-specific-context
-│  ├─ se-renouncingcitizenship-section-what-our-clients-say
-│  ├─ se-renouncingcitizenship-section-frequently-asked-questions
-│  ├─ se-renouncingcitizenship-section-international-support
-│  ├─ application-form
-│  ├─ se-renouncingcitizenship-list-our-credentials
-│  ├─ se-renouncingcitizenship-list-related-services
-│  ├─ se-renouncingcitizenship-section-youre-in-good-hands
-│  ├─ se-renouncingcitizenship-section-21
+├─ header.html
+│  ├─ main-header
 
-├─ provisional.html
-│  ├─ se-provisional-form-provisional-naturalisation-in-brazil-for-minors
-│  ├─ se-provisional-list-quick-facts
-│  ├─ se-provisional-list-common-challenges-applicants-face
-│  ├─ se-provisional-list-how-we-solve-these-challenges
-│  ├─ se-provisional-section-naturalisation-overview
-│  ├─ se-provisional-form-who-is-this-naturalisation-for
-│  ├─ se-provisional-list-required-documents
-│  ├─ se-provisional-list-application-process
-│  ├─ se-provisional-section-timelines-deadlines
-│  ├─ se-provisional-section-fees-costs
-│  ├─ se-provisional-list-risks-common-mistakes
-│  ├─ se-provisional-section-diy-vs-professional-assistance
-│  ├─ se-provisional-section-sergipe-specific-context
-│  ├─ se-provisional-section-what-our-clients-say
-│  ├─ se-provisional-section-frequently-asked-questions
-│  ├─ se-provisional-section-international-support
-│  ├─ application-form
-│  ├─ se-provisional-list-our-credentials
-│  ├─ se-provisional-list-related-services
-│  ├─ se-provisional-section-youre-in-good-hands
-│  ├─ se-provisional-section-21
-
-├─ special.html
-│  ├─ se-special-form-special-naturalisation-in-brazil-for-particular-cases
-│  ├─ se-special-list-quick-facts
-│  ├─ se-special-list-common-challenges-applicants-face
-│  ├─ se-special-list-how-we-solve-these-challenges
-│  ├─ se-special-section-naturalisation-overview
-│  ├─ se-special-form-who-is-this-naturalisation-for
-│  ├─ se-special-list-required-documents
-│  ├─ se-special-list-application-process
-│  ├─ se-special-section-timelines-deadlines
-│  ├─ se-special-section-fees-costs
-│  ├─ se-special-list-risks-common-mistakes
-│  ├─ se-special-section-diy-vs-professional-assistance
-│  ├─ se-special-section-sergipe-specific-context
-│  ├─ se-special-section-what-our-clients-say
-│  ├─ se-special-section-frequently-asked-questions
-│  ├─ se-special-section-international-support
-│  ├─ application-form
-│  ├─ se-special-list-our-credentials
-│  ├─ se-special-list-related-services
-│  ├─ se-special-section-youre-in-good-hands
-│  ├─ se-special-section-21
-
-├─ ordinary.html
-│  ├─ se-ordinary-form-obtain-brazilian-citizenship-through-ordinary-naturalisation
-│  ├─ se-ordinary-list-quick-facts
-│  ├─ se-ordinary-list-common-challenges-applicants-face
-│  ├─ se-ordinary-list-how-we-solve-these-challenges
-│  ├─ se-ordinary-section-naturalisation-overview
-│  ├─ se-ordinary-form-who-is-this-naturalisation-for
-│  ├─ se-ordinary-list-required-documents
-│  ├─ se-ordinary-list-application-process
-│  ├─ se-ordinary-section-timelines-deadlines
-│  ├─ se-ordinary-section-fees-costs
-│  ├─ se-ordinary-list-risks-common-mistakes
-│  ├─ se-ordinary-section-diy-vs-professional-assistance
-│  ├─ se-ordinary-section-sergipe-specific-context
-│  ├─ se-ordinary-section-what-our-clients-say
-│  ├─ se-ordinary-section-frequently-asked-questions
-│  ├─ se-ordinary-section-international-support
-│  ├─ application-form
-│  ├─ se-ordinary-list-our-credentials
-│  ├─ se-ordinary-list-related-services
-│  ├─ se-ordinary-section-youre-in-good-hands
-│  ├─ se-ordinary-section-21
-
-├─ extraordinary.html
-│  ├─ se-extraordinary-form-extraordinary-naturalisation-in-brazil-for-contributions
-│  ├─ se-extraordinary-list-quick-facts
-│  ├─ se-extraordinary-list-common-challenges-applicants-face
-│  ├─ se-extraordinary-list-how-we-solve-these-challenges
-│  ├─ se-extraordinary-section-naturalisation-overview
-│  ├─ se-extraordinary-form-who-is-this-naturalisation-for
-│  ├─ se-extraordinary-list-required-documents
-│  ├─ se-extraordinary-list-application-process
-│  ├─ se-extraordinary-section-timelines-deadlines
-│  ├─ se-extraordinary-section-fees-costs
-│  ├─ se-extraordinary-list-risks-common-mistakes
-│  ├─ se-extraordinary-section-diy-vs-professional-assistance
-│  ├─ se-extraordinary-section-sergipe-specific-context
-│  ├─ se-extraordinary-section-what-our-clients-say
-│  ├─ se-extraordinary-section-frequently-asked-questions
-│  ├─ se-extraordinary-section-international-support
-│  ├─ application-form
-│  ├─ se-extraordinary-list-our-credentials
-│  ├─ se-extraordinary-list-related-services
-│  ├─ se-extraordinary-section-youre-in-good-hands
-│  ├─ se-extraordinary-section-21
-
-├─ reacquisition-citizenship.html
-│  ├─ se-reacquisitioncitizenship-form-reacquire-brazilian-citizenship
-│  ├─ se-reacquisitioncitizenship-list-quick-facts
-│  ├─ se-reacquisitioncitizenship-list-common-challenges-applicants-face
-│  ├─ se-reacquisitioncitizenship-list-how-we-solve-these-challenges
-│  ├─ se-reacquisitioncitizenship-section-reacquisition-overview
-│  ├─ se-reacquisitioncitizenship-form-who-is-this-for
-│  ├─ se-reacquisitioncitizenship-list-required-documents
-│  ├─ se-reacquisitioncitizenship-list-process
-│  ├─ se-reacquisitioncitizenship-section-timelines-deadlines
-│  ├─ se-reacquisitioncitizenship-section-fees-costs
-│  ├─ se-reacquisitioncitizenship-list-risks-common-mistakes
-│  ├─ se-reacquisitioncitizenship-section-diy-vs-professional-assistance
-│  ├─ se-reacquisitioncitizenship-section-sergipe-specific-context
-│  ├─ se-reacquisitioncitizenship-section-what-our-clients-say
-│  ├─ se-reacquisitioncitizenship-section-frequently-asked-questions
-│  ├─ se-reacquisitioncitizenship-section-international-support
-│  ├─ application-form
-│  ├─ se-reacquisitioncitizenship-list-our-credentials
-│  ├─ se-reacquisitioncitizenship-list-related-services
-│  ├─ se-reacquisitioncitizenship-section-youre-in-good-hands
-│  ├─ se-reacquisitioncitizenship-section-21
-
-├─ scientific-research.html
-│  ├─ se-scientificresearch-form-conduct-scientific-research-with-residency-in-brazil
-│  ├─ se-scientificresearch-list-quick-facts
-│  ├─ se-scientificresearch-list-common-challenges-applicants-face
-│  ├─ se-scientificresearch-list-how-we-solve-these-challenges
-│  ├─ se-scientificresearch-section-residency-overview
-│  ├─ se-scientificresearch-form-who-is-this-residency-for
-│  ├─ se-scientificresearch-list-required-documents
-│  ├─ se-scientificresearch-list-application-process
-│  ├─ se-scientificresearch-section-timelines-deadlines
-│  ├─ se-scientificresearch-section-fees-costs
-│  ├─ se-scientificresearch-list-risks-common-mistakes
-│  ├─ se-scientificresearch-section-diy-vs-professional-assistance
-│  ├─ se-scientificresearch-section-sergipe-specific-context
-│  ├─ se-scientificresearch-section-what-our-clients-say
-│  ├─ se-scientificresearch-section-frequently-asked-questions
-│  ├─ se-scientificresearch-section-international-support
-│  ├─ application-form
-│  ├─ se-scientificresearch-list-our-credentials
-│  ├─ se-scientificresearch-list-related-services
-│  ├─ se-scientificresearch-section-youre-in-good-hands
-│  ├─ se-scientificresearch-section-21
-
-├─ study.html
-│  ├─ se-study-form-study-in-brazil-with-study-residency
-│  ├─ se-study-list-quick-facts
-│  ├─ se-study-list-common-challenges-applicants-face
-│  ├─ se-study-list-how-we-solve-these-challenges
-│  ├─ se-study-section-residency-overview
-│  ├─ se-study-form-who-is-this-residency-for
-│  ├─ se-study-list-required-documents
-│  ├─ se-study-list-application-process
-│  ├─ se-study-section-timelines-deadlines
-│  ├─ se-study-section-fees-costs
-│  ├─ se-study-list-risks-common-mistakes
-│  ├─ se-study-section-diy-vs-professional-assistance
-│  ├─ se-study-section-sergipe-specific-context
-│  ├─ se-study-section-what-our-clients-say
-│  ├─ se-study-section-frequently-asked-questions
-│  ├─ se-study-section-international-support
-│  ├─ application-form
-│  ├─ se-study-list-our-credentials
-│  ├─ se-study-list-related-services
-│  ├─ se-study-section-youre-in-good-hands
-│  ├─ se-study-section-21
-
-├─ educational-exchange.html
-│  ├─ se-educationalexchange-form-participate-in-educational-exchanges-with-residency-in-brazil
-│  ├─ se-educationalexchange-list-quick-facts
-│  ├─ se-educationalexchange-list-common-challenges-applicants-face
-│  ├─ se-educationalexchange-list-how-we-solve-these-challenges
-│  ├─ se-educationalexchange-section-residency-overview
-│  ├─ se-educationalexchange-form-who-is-this-residency-for
-│  ├─ se-educationalexchange-list-required-documents
-│  ├─ se-educationalexchange-list-application-process
-│  ├─ se-educationalexchange-section-timelines-deadlines
-│  ├─ se-educationalexchange-section-fees-costs
-│  ├─ se-educationalexchange-list-risks-common-mistakes
-│  ├─ se-educationalexchange-section-diy-vs-professional-assistance
-│  ├─ se-educationalexchange-section-sergipe-specific-context
-│  ├─ se-educationalexchange-section-what-our-clients-say
-│  ├─ se-educationalexchange-section-frequently-asked-questions
-│  ├─ se-educationalexchange-section-international-support
-│  ├─ application-form
-│  ├─ se-educationalexchange-list-our-credentials
-│  ├─ se-educationalexchange-list-related-services
-│  ├─ se-educationalexchange-section-youre-in-good-hands
-│  ├─ se-educationalexchange-section-21
-
-├─ humanitarian.html
-│  ├─ se-humanitarian-form-humanitarian-residency-in-brazil-for-protection
-│  ├─ se-humanitarian-list-quick-facts
-│  ├─ se-humanitarian-list-common-challenges-applicants-face
-│  ├─ se-humanitarian-list-how-we-solve-these-challenges
-│  ├─ se-humanitarian-section-residency-overview
-│  ├─ se-humanitarian-form-who-is-this-residency-for
-│  ├─ se-humanitarian-list-required-documents
-│  ├─ se-humanitarian-list-application-process
-│  ├─ se-humanitarian-section-timelines-deadlines
-│  ├─ se-humanitarian-section-fees-costs
-│  ├─ se-humanitarian-list-risks-common-mistakes
-│  ├─ se-humanitarian-section-diy-vs-professional-assistance
-│  ├─ se-humanitarian-section-sergipe-specific-context
-│  ├─ se-humanitarian-section-what-our-clients-say
-│  ├─ se-humanitarian-section-frequently-asked-questions
-│  ├─ se-humanitarian-section-international-support
-│  ├─ application-form
-│  ├─ se-humanitarian-list-our-credentials
-│  ├─ se-humanitarian-list-related-services
-│  ├─ se-humanitarian-section-youre-in-good-hands
-│  ├─ se-humanitarian-section-21
-
-├─ digital-nomad.html
-│  ├─ se-digitalnomad-form-digital-nomad-residency-in-brazil
-│  ├─ se-digitalnomad-list-quick-facts
-│  ├─ se-digitalnomad-list-common-challenges-applicants-face
-│  ├─ se-digitalnomad-list-how-we-solve-these-challenges
-│  ├─ se-digitalnomad-section-residency-overview
-│  ├─ se-digitalnomad-form-who-is-this-residency-for
-│  ├─ se-digitalnomad-list-required-documents
-│  ├─ se-digitalnomad-list-application-process
-│  ├─ se-digitalnomad-section-timelines-deadlines
-│  ├─ se-digitalnomad-section-fees-costs
-│  ├─ se-digitalnomad-list-risks-common-mistakes
-│  ├─ se-digitalnomad-section-diy-vs-professional-assistance
-│  ├─ se-digitalnomad-section-sergipe-specific-context
-│  ├─ se-digitalnomad-section-what-our-clients-say
-│  ├─ se-digitalnomad-section-frequently-asked-questions
-│  ├─ se-digitalnomad-section-international-support
-│  ├─ application-form
-│  ├─ se-digitalnomad-list-our-credentials
-│  ├─ se-digitalnomad-list-related-services
-│  ├─ se-digitalnomad-section-youre-in-good-hands
-│  ├─ se-digitalnomad-section-21
-
-├─ family-reunion.html
-│  ├─ se-familyreunion-form-reunite-with-family-in-brazil-with-family-reunion-residency
-│  ├─ se-familyreunion-list-quick-facts
-│  ├─ se-familyreunion-list-common-challenges-applicants-face
-│  ├─ se-familyreunion-list-how-we-solve-these-challenges
-│  ├─ se-familyreunion-section-residency-overview
-│  ├─ se-familyreunion-form-who-is-this-residency-for
-│  ├─ se-familyreunion-list-required-documents
-│  ├─ se-familyreunion-list-application-process
-│  ├─ se-familyreunion-section-timelines-deadlines
-│  ├─ se-familyreunion-section-fees-costs
-│  ├─ se-familyreunion-list-risks-common-mistakes
-│  ├─ se-familyreunion-section-diy-vs-professional-assistance
-│  ├─ se-familyreunion-section-sergipe-specific-context
-│  ├─ se-familyreunion-section-what-our-clients-say
-│  ├─ se-familyreunion-section-frequently-asked-questions
-│  ├─ se-familyreunion-section-international-support
-│  ├─ application-form
-│  ├─ se-familyreunion-list-our-credentials
-│  ├─ se-familyreunion-list-related-services
-│  ├─ se-familyreunion-section-youre-in-good-hands
-│  ├─ se-familyreunion-section-21
-
-├─ mercosul.html
-│  ├─ se-mercosul-form-residency-for-mercosul-citizens-in-brazil
-│  ├─ se-mercosul-list-quick-facts
-│  ├─ se-mercosul-list-common-challenges-applicants-face
-│  ├─ se-mercosul-list-how-we-solve-these-challenges
-│  ├─ se-mercosul-section-residency-overview
-│  ├─ se-mercosul-form-who-is-this-residency-for
-│  ├─ se-mercosul-list-required-documents
-│  ├─ se-mercosul-list-application-process
-│  ├─ se-mercosul-section-timelines-deadlines
-│  ├─ se-mercosul-section-fees-costs
-│  ├─ se-mercosul-list-risks-common-mistakes
-│  ├─ se-mercosul-section-diy-vs-professional-assistance
-│  ├─ se-mercosul-section-sergipe-specific-context
-│  ├─ se-mercosul-section-what-our-clients-say
-│  ├─ se-mercosul-section-frequently-asked-questions
-│  ├─ se-mercosul-section-international-support
-│  ├─ application-form
-│  ├─ se-mercosul-list-our-credentials
-│  ├─ se-mercosul-list-related-services
-│  ├─ se-mercosul-section-youre-in-good-hands
-│  ├─ se-mercosul-section-21
-
-├─ retiree.html
-│  ├─ se-retiree-form-retire-in-brazil-with-retiree-residency
-│  ├─ se-retiree-list-quick-facts
-│  ├─ se-retiree-list-common-challenges-applicants-face
-│  ├─ se-retiree-list-how-we-solve-these-challenges
-│  ├─ se-retiree-section-residency-overview
-│  ├─ se-retiree-form-who-is-this-residency-for
-│  ├─ se-retiree-list-required-documents
-│  ├─ se-retiree-list-application-process
-│  ├─ se-retiree-section-timelines-deadlines
-│  ├─ se-retiree-section-fees-costs
-│  ├─ se-retiree-list-risks-common-mistakes
-│  ├─ se-retiree-section-diy-vs-professional-assistance
-│  ├─ se-retiree-section-sergipe-specific-context
-│  ├─ se-retiree-section-what-our-clients-say
-│  ├─ se-retiree-section-frequently-asked-questions
-│  ├─ se-retiree-section-international-support
-│  ├─ application-form
-│  ├─ se-retiree-list-our-credentials
-│  ├─ se-retiree-list-related-services
-│  ├─ se-retiree-section-youre-in-good-hands
-│  ├─ se-retiree-section-21
-
-├─ volunteer.html
-│  ├─ se-volunteer-form-volunteer-in-brazil-with-volunteer-residency
-│  ├─ se-volunteer-list-quick-facts
-│  ├─ se-volunteer-list-common-challenges-applicants-face
-│  ├─ se-volunteer-list-how-we-solve-these-challenges
-│  ├─ se-volunteer-section-residency-overview
-│  ├─ se-volunteer-form-who-is-this-residency-for
-│  ├─ se-volunteer-list-required-documents
-│  ├─ se-volunteer-list-application-process
-│  ├─ se-volunteer-section-timelines-deadlines
-│  ├─ se-volunteer-section-fees-costs
-│  ├─ se-volunteer-list-risks-common-mistakes
-│  ├─ se-volunteer-section-diy-vs-professional-assistance
-│  ├─ se-volunteer-section-sergipe-specific-context
-│  ├─ se-volunteer-section-what-our-clients-say
-│  ├─ se-volunteer-section-frequently-asked-questions
-│  ├─ se-volunteer-section-international-support
-│  ├─ application-form
-│  ├─ se-volunteer-list-our-credentials
-│  ├─ se-volunteer-list-related-services
-│  ├─ se-volunteer-section-youre-in-good-hands
-│  ├─ se-volunteer-section-21
-
-├─ skilled-worker.html
-│  ├─ se-skilledworker-form-skilled-worker-residency-in-brazil-for-professionals
-│  ├─ se-skilledworker-list-quick-facts
-│  ├─ se-skilledworker-list-common-challenges-applicants-face
-│  ├─ se-skilledworker-list-how-we-solve-these-challenges
-│  ├─ se-skilledworker-section-residency-overview
-│  ├─ se-skilledworker-form-who-is-this-residency-for
-│  ├─ se-skilledworker-list-required-documents
-│  ├─ se-skilledworker-list-application-process
-│  ├─ se-skilledworker-section-timelines-deadlines
-│  ├─ se-skilledworker-section-fees-costs
-│  ├─ se-skilledworker-list-risks-common-mistakes
-│  ├─ se-skilledworker-section-diy-vs-professional-assistance
-│  ├─ se-skilledworker-section-sergipe-specific-context
-│  ├─ se-skilledworker-section-what-our-clients-say
-│  ├─ se-skilledworker-section-frequently-asked-questions
-│  ├─ se-skilledworker-section-international-support
-│  ├─ application-form
-│  ├─ se-skilledworker-list-our-credentials
-│  ├─ se-skilledworker-list-related-services
-│  ├─ se-skilledworker-section-youre-in-good-hands
-│  ├─ se-skilledworker-section-21
-
-├─ religious.html
-│  ├─ se-religious-form-religious-residency-in-brazil-for-missions
-│  ├─ se-religious-list-quick-facts
-│  ├─ se-religious-list-common-challenges-applicants-face
-│  ├─ se-religious-list-how-we-solve-these-challenges
-│  ├─ se-religious-section-residency-overview
-│  ├─ se-religious-form-who-is-this-residency-for
-│  ├─ se-religious-list-required-documents
-│  ├─ se-religious-list-application-process
-│  ├─ se-religious-section-timelines-deadlines
-│  ├─ se-religious-section-fees-costs
-│  ├─ se-religious-list-risks-common-mistakes
-│  ├─ se-religious-section-diy-vs-professional-assistance
-│  ├─ se-religious-section-sergipe-specific-context
-│  ├─ se-religious-section-what-our-clients-say
-│  ├─ se-religious-section-frequently-asked-questions
-│  ├─ se-religious-section-international-support
-│  ├─ application-form
-│  ├─ se-religious-list-our-credentials
-│  ├─ se-religious-list-related-services
-│  ├─ se-religious-section-youre-in-good-hands
-│  ├─ se-religious-section-21
-
-├─ investor.html
-│  ├─ se-investor-form-gain-residency-in-brazil-through-investment
-│  ├─ se-investor-list-quick-facts
-│  ├─ se-investor-list-common-challenges-applicants-face
-│  ├─ se-investor-list-how-we-solve-these-challenges
-│  ├─ se-investor-section-residency-overview
-│  ├─ se-investor-form-who-is-this-residency-for
-│  ├─ se-investor-list-required-documents
-│  ├─ se-investor-list-application-process
-│  ├─ se-investor-section-timelines-deadlines
-│  ├─ se-investor-section-fees-costs
-│  ├─ se-investor-list-risks-common-mistakes
-│  ├─ se-investor-section-diy-vs-professional-assistance
-│  ├─ se-investor-section-sergipe-specific-context
-│  ├─ se-investor-section-what-our-clients-say
-│  ├─ se-investor-section-frequently-asked-questions
-│  ├─ se-investor-section-international-support
-│  ├─ application-form
-│  ├─ se-investor-list-our-credentials
-│  ├─ se-investor-list-related-services
-│  ├─ se-investor-section-youre-in-good-hands
-│  ├─ se-investor-section-21
-
-├─ health-treatment.html
-│  ├─ se-healthtreatment-form-extend-your-stay-for-health-treatment-in-brazil
-│  ├─ se-healthtreatment-list-quick-facts
-│  ├─ se-healthtreatment-list-common-challenges-applicants-face
-│  ├─ se-healthtreatment-list-how-we-solve-these-challenges
-│  ├─ se-healthtreatment-section-residency-overview
-│  ├─ se-healthtreatment-form-who-is-this-residency-for
-│  ├─ se-healthtreatment-list-required-documents
-│  ├─ se-healthtreatment-list-application-process
-│  ├─ se-healthtreatment-section-timelines-deadlines
-│  ├─ se-healthtreatment-section-fees-costs
-│  ├─ se-healthtreatment-list-risks-common-mistakes
-│  ├─ se-healthtreatment-section-diy-vs-professional-assistance
-│  ├─ se-healthtreatment-section-sergipe-specific-context
-│  ├─ se-healthtreatment-section-what-our-clients-say
-│  ├─ se-healthtreatment-section-frequently-asked-questions
-│  ├─ se-healthtreatment-section-international-support
-│  ├─ application-form
-│  ├─ se-healthtreatment-list-our-credentials
-│  ├─ se-healthtreatment-list-related-services
-│  ├─ se-healthtreatment-section-youre-in-good-hands
-│  ├─ se-healthtreatment-section-21
-
-├─ cplp.html
-│  ├─ se-cplp-form-residency-for-cplp-citizens-in-brazil
-│  ├─ se-cplp-list-quick-facts
-│  ├─ se-cplp-list-common-challenges-applicants-face
-│  ├─ se-cplp-list-how-we-solve-these-challenges
-│  ├─ se-cplp-section-residency-overview
-│  ├─ se-cplp-form-who-is-this-residency-for
-│  ├─ se-cplp-list-required-documents
-│  ├─ se-cplp-list-application-process
-│  ├─ se-cplp-section-timelines-deadlines
-│  ├─ se-cplp-section-fees-costs
-│  ├─ se-cplp-list-risks-common-mistakes
-│  ├─ se-cplp-section-diy-vs-professional-assistance
-│  ├─ se-cplp-section-sergipe-specific-context
-│  ├─ se-cplp-section-what-our-clients-say
-│  ├─ se-cplp-section-frequently-asked-questions
-│  ├─ se-cplp-section-international-support
-│  ├─ application-form
-│  ├─ se-cplp-list-our-credentials
-│  ├─ se-cplp-list-related-services
-│  ├─ se-cplp-section-youre-in-good-hands
-│  ├─ se-cplp-section-21
-
-├─ youth-exchange.html
-│  ├─ se-youthexchange-form-youth-exchange-residency-in-brazil-for-programs
-│  ├─ se-youthexchange-list-quick-facts
-│  ├─ se-youthexchange-list-common-challenges-applicants-face
-│  ├─ se-youthexchange-list-how-we-solve-these-challenges
-│  ├─ se-youthexchange-section-residency-overview
-│  ├─ se-youthexchange-form-who-is-this-residency-for
-│  ├─ se-youthexchange-list-required-documents
-│  ├─ se-youthexchange-list-application-process
-│  ├─ se-youthexchange-section-timelines-deadlines
-│  ├─ se-youthexchange-section-fees-costs
-│  ├─ se-youthexchange-list-risks-common-mistakes
-│  ├─ se-youthexchange-section-diy-vs-professional-assistance
-│  ├─ se-youthexchange-section-sergipe-specific-context
-│  ├─ se-youthexchange-section-what-our-clients-say
-│  ├─ se-youthexchange-section-frequently-asked-questions
-│  ├─ se-youthexchange-section-international-support
-│  ├─ application-form
-│  ├─ se-youthexchange-list-our-credentials
-│  ├─ se-youthexchange-list-related-services
-│  ├─ se-youthexchange-section-youre-in-good-hands
-│  ├─ se-youthexchange-section-21
-
-├─ work.html
-│  ├─ se-work-form-work-and-reside-in-brazil-with-work-residency
-│  ├─ se-work-list-quick-facts
-│  ├─ se-work-list-common-challenges-applicants-face
-│  ├─ se-work-list-how-we-solve-these-challenges
-│  ├─ se-work-section-residency-overview
-│  ├─ se-work-form-who-is-this-residency-for
-│  ├─ se-work-list-required-documents
-│  ├─ se-work-list-application-process
-│  ├─ se-work-section-timelines-deadlines
-│  ├─ se-work-section-fees-costs
-│  ├─ se-work-list-risks-common-mistakes
-│  ├─ se-work-section-diy-vs-professional-assistance
-│  ├─ se-work-section-sergipe-specific-context
-│  ├─ se-work-section-what-our-clients-say
-│  ├─ se-work-section-frequently-asked-questions
-│  ├─ se-work-section-international-support
-│  ├─ application-form
-│  ├─ se-work-list-our-credentials
-│  ├─ se-work-list-related-services
-│  ├─ se-work-section-youre-in-good-hands
-│  ├─ se-work-section-21
-
-├─ startup.html
-│  ├─ se-startup-form-launch-your-startup-in-brazil-with-the-startup-visa
-│  ├─ se-startup-list-quick-facts
-│  ├─ se-startup-list-common-challenges-applicants-face
-│  ├─ se-startup-list-how-we-solve-these-challenges
-│  ├─ se-startup-section-visa-overview
-│  ├─ se-startup-form-who-is-this-visa-for
-│  ├─ se-startup-list-required-documents
-│  ├─ se-startup-list-application-process
-│  ├─ se-startup-section-timelines-deadlines
-│  ├─ se-startup-section-fees-costs
-│  ├─ se-startup-list-risks-common-mistakes
-│  ├─ se-startup-section-diy-vs-professional-assistance
-│  ├─ se-startup-section-sergipe-specific-context
-│  ├─ se-startup-section-what-our-clients-say
-│  ├─ se-startup-section-frequently-asked-questions
-│  ├─ se-startup-section-international-support
-│  ├─ application-form
-│  ├─ se-startup-list-our-credentials
-│  ├─ se-startup-list-related-services
-│  ├─ se-startup-section-youre-in-good-hands
-│  ├─ se-startup-section-21
-
-├─ family.html
-│  ├─ se-family-form-reunite-with-family-in-brazil-with-the-family-visa
-│  ├─ se-family-list-quick-facts
-│  ├─ se-family-list-common-challenges-applicants-face
-│  ├─ se-family-list-how-we-solve-these-challenges
-│  ├─ se-family-section-visa-overview
-│  ├─ se-family-form-who-is-this-visa-for
-│  ├─ se-family-list-required-documents
-│  ├─ se-family-list-application-process
-│  ├─ se-family-section-timelines-deadlines
-│  ├─ se-family-section-fees-costs
-│  ├─ se-family-list-risks-common-mistakes
-│  ├─ se-family-section-diy-vs-professional-assistance
-│  ├─ se-family-section-sergipe-specific-context
-│  ├─ se-family-section-what-our-clients-say
-│  ├─ se-family-section-frequently-asked-questions
-│  ├─ se-family-section-international-support
-│  ├─ application-form
-│  ├─ se-family-list-our-credentials
-│  ├─ se-family-list-related-services
-│  ├─ se-family-section-youre-in-good-hands
-│  ├─ se-family-section-21
-
-├─ sports.html
-│  ├─ se-sports-form-compete-in-brazil-with-the-sports-visa
-│  ├─ se-sports-list-quick-facts
-│  ├─ se-sports-list-common-challenges-applicants-face
-│  ├─ se-sports-list-how-we-solve-these-challenges
-│  ├─ se-sports-section-visa-overview
-│  ├─ se-sports-form-who-is-this-visa-for
-│  ├─ se-sports-list-required-documents
-│  ├─ se-sports-list-application-process
-│  ├─ se-sports-section-timelines-deadlines
-│  ├─ se-sports-section-fees-costs
-│  ├─ se-sports-list-risks-common-mistakes
-│  ├─ se-sports-section-diy-vs-professional-assistance
-│  ├─ se-sports-section-sergipe-specific-context
-│  ├─ se-sports-section-what-our-clients-say
-│  ├─ se-sports-section-frequently-asked-questions
-│  ├─ se-sports-section-international-support
-│  ├─ application-form
-│  ├─ se-sports-list-our-credentials
-│  ├─ se-sports-list-related-services
-│  ├─ se-sports-section-youre-in-good-hands
-│  ├─ se-sports-section-21
-
-├─ medical.html
-│  ├─ se-medical-form-receive-medical-treatment-in-brazil-with-the-medical-visa
-│  ├─ se-medical-list-quick-facts
-│  ├─ se-medical-list-common-challenges-applicants-face
-│  ├─ se-medical-list-how-we-solve-these-challenges
-│  ├─ se-medical-section-visa-overview
-│  ├─ se-medical-form-who-is-this-visa-for
-│  ├─ se-medical-list-required-documents
-│  ├─ se-medical-list-application-process
-│  ├─ se-medical-section-timelines-deadlines
-│  ├─ se-medical-section-fees-costs
-│  ├─ se-medical-list-risks-common-mistakes
-│  ├─ se-medical-section-diy-vs-professional-assistance
-│  ├─ se-medical-section-sergipe-specific-context
-│  ├─ se-medical-section-what-our-clients-say
-│  ├─ se-medical-section-frequently-asked-questions
-│  ├─ se-medical-section-international-support
-│  ├─ application-form
-│  ├─ se-medical-list-our-credentials
-│  ├─ se-medical-list-related-services
-│  ├─ se-medical-section-youre-in-good-hands
-│  ├─ se-medical-section-21
-
-├─ tourist.html
-│  ├─ se-tourist-form-visit-brazil-as-a-tourist-with-the-tourist-visa
-│  ├─ se-tourist-list-quick-facts
-│  ├─ se-tourist-list-common-challenges-applicants-face
-│  ├─ se-tourist-list-how-we-solve-these-challenges
-│  ├─ se-tourist-section-visa-overview
-│  ├─ se-tourist-form-who-is-this-visa-for
-│  ├─ se-tourist-list-required-documents
-│  ├─ se-tourist-list-application-process
-│  ├─ se-tourist-section-timelines-deadlines
-│  ├─ se-tourist-section-fees-costs
-│  ├─ se-tourist-list-risks-common-mistakes
-│  ├─ se-tourist-section-diy-vs-professional-assistance
-│  ├─ se-tourist-section-sergipe-specific-context
-│  ├─ se-tourist-section-what-our-clients-say
-│  ├─ se-tourist-section-frequently-asked-questions
-│  ├─ se-tourist-section-international-support
-│  ├─ application-form
-│  ├─ se-tourist-list-our-credentials
-│  ├─ se-tourist-list-related-services
-│  ├─ se-tourist-section-youre-in-good-hands
-│  ├─ se-tourist-section-21
-
-├─ transit.html
-│  ├─ se-transit-form-transit-through-brazil-with-the-transit-visa
-│  ├─ se-transit-list-quick-facts
-│  ├─ se-transit-list-common-challenges-applicants-face
-│  ├─ se-transit-list-how-we-solve-these-challenges
-│  ├─ se-transit-section-visa-overview
-│  ├─ se-transit-form-who-is-this-visa-for
-│  ├─ se-transit-list-required-documents
-│  ├─ se-transit-list-application-process
-│  ├─ se-transit-section-timelines-deadlines
-│  ├─ se-transit-section-fees-costs
-│  ├─ se-transit-list-risks-common-mistakes
-│  ├─ se-transit-section-diy-vs-professional-assistance
-│  ├─ se-transit-section-sergipe-specific-context
-│  ├─ se-transit-section-what-our-clients-say
-│  ├─ se-transit-section-frequently-asked-questions
-│  ├─ se-transit-section-international-support
-│  ├─ application-form
-│  ├─ se-transit-list-our-credentials
-│  ├─ se-transit-list-related-services
-│  ├─ se-transit-section-youre-in-good-hands
-│  ├─ se-transit-section-21
-
-├─ student.html
-│  ├─ se-student-form-study-in-brazil-with-the-student-visa
-│  ├─ se-student-list-quick-facts
-│  ├─ se-student-list-common-challenges-applicants-face
-│  ├─ se-student-list-how-we-solve-these-challenges
-│  ├─ se-student-section-visa-overview
-│  ├─ se-student-form-who-is-this-visa-for
-│  ├─ se-student-list-required-documents
-│  ├─ se-student-list-application-process
-│  ├─ se-student-section-timelines-deadlines
-│  ├─ se-student-section-fees-costs
-│  ├─ se-student-list-risks-common-mistakes
-│  ├─ se-student-section-diy-vs-professional-assistance
-│  ├─ se-student-section-sergipe-specific-context
-│  ├─ se-student-section-what-our-clients-say
-│  ├─ se-student-section-frequently-asked-questions
-│  ├─ se-student-section-international-support
-│  ├─ application-form
-│  ├─ se-student-list-our-credentials
-│  ├─ se-student-list-related-services
-│  ├─ se-student-section-youre-in-good-hands
-│  ├─ se-student-section-21
-
-├─ business.html
-│  ├─ se-business-form-conduct-business-in-brazil-with-the-business-visa
-│  ├─ se-business-list-quick-facts
-│  ├─ se-business-list-common-challenges-applicants-face
-│  ├─ se-business-list-how-we-solve-these-challenges
-│  ├─ se-business-section-visa-overview
-│  ├─ se-business-form-who-is-this-visa-for
-│  ├─ se-business-list-required-documents
-│  ├─ se-business-list-application-process
-│  ├─ se-business-section-timelines-deadlines
-│  ├─ se-business-section-fees-costs
-│  ├─ se-business-list-risks-common-mistakes
-│  ├─ se-business-section-diy-vs-professional-assistance
-│  ├─ se-business-section-sergipe-specific-context
-│  ├─ se-business-section-what-our-clients-say
-│  ├─ se-business-section-frequently-asked-questions
-│  ├─ se-business-section-international-support
-│  ├─ application-form
-│  ├─ se-business-list-our-credentials
-│  ├─ se-business-list-related-services
-│  ├─ se-business-section-youre-in-good-hands
-│  ├─ se-business-section-21
-
-├─ research.html
-│  ├─ se-research-form-conduct-research-in-brazil-with-the-research-visa
-│  ├─ se-research-list-quick-facts
-│  ├─ se-research-list-common-challenges-applicants-face
-│  ├─ se-research-list-how-we-solve-these-challenges
-│  ├─ se-research-section-visa-overview
-│  ├─ se-research-form-who-is-this-visa-for
-│  ├─ se-research-list-required-documents
-│  ├─ se-research-list-application-process
-│  ├─ se-research-section-timelines-deadlines
-│  ├─ se-research-section-fees-costs
-│  ├─ se-research-list-risks-common-mistakes
-│  ├─ se-research-section-diy-vs-professional-assistance
-│  ├─ se-research-section-sergipe-specific-context
-│  ├─ se-research-section-what-our-clients-say
-│  ├─ se-research-section-frequently-asked-questions
-│  ├─ se-research-section-international-support
-│  ├─ application-form
-│  ├─ se-research-list-our-credentials
-│  ├─ se-research-list-related-services
-│  ├─ se-research-section-youre-in-good-hands
-│  ├─ se-research-section-21
-
-├─ diplomatic.html
-│  ├─ se-diplomatic-form-official-diplomatic-visa-for-brazil-missions
-│  ├─ se-diplomatic-list-quick-facts
-│  ├─ se-diplomatic-list-common-challenges-applicants-face
-│  ├─ se-diplomatic-list-how-we-solve-these-challenges
-│  ├─ se-diplomatic-section-visa-overview
-│  ├─ se-diplomatic-form-who-is-this-visa-for
-│  ├─ se-diplomatic-list-required-documents
-│  ├─ se-diplomatic-list-application-process
-│  ├─ se-diplomatic-section-timelines-deadlines
-│  ├─ se-diplomatic-section-fees-costs
-│  ├─ se-diplomatic-list-risks-common-mistakes
-│  ├─ se-diplomatic-section-diy-vs-professional-assistance
-│  ├─ se-diplomatic-section-sergipe-specific-context
-│  ├─ se-diplomatic-section-what-our-clients-say
-│  ├─ se-diplomatic-section-frequently-asked-questions
-│  ├─ se-diplomatic-section-international-support
-│  ├─ application-form
-│  ├─ se-diplomatic-list-our-credentials
-│  ├─ se-diplomatic-list-related-services
-│  ├─ se-diplomatic-section-youre-in-good-hands
-│  ├─ se-diplomatic-section-21
-
-├─ journalist.html
-│  ├─ se-journalist-form-cover-news-in-brazil-with-the-journalist-visa
-│  ├─ se-journalist-list-quick-facts
-│  ├─ se-journalist-list-common-challenges-applicants-face
-│  ├─ se-journalist-list-how-we-solve-these-challenges
-│  ├─ se-journalist-section-visa-overview
-│  ├─ se-journalist-form-who-is-this-visa-for
-│  ├─ se-journalist-list-required-documents
-│  ├─ se-journalist-list-application-process
-│  ├─ se-journalist-section-timelines-deadlines
-│  ├─ se-journalist-section-fees-costs
-│  ├─ se-journalist-list-risks-common-mistakes
-│  ├─ se-journalist-section-diy-vs-professional-assistance
-│  ├─ se-journalist-section-sergipe-specific-context
-│  ├─ se-journalist-section-what-our-clients-say
-│  ├─ se-journalist-section-frequently-asked-questions
-│  ├─ se-journalist-section-international-support
-│  ├─ application-form
-│  ├─ se-journalist-list-our-credentials
-│  ├─ se-journalist-list-related-services
-│  ├─ se-journalist-section-youre-in-good-hands
-│  ├─ se-journalist-section-21
-
-├─ fines.html
-│  ├─ se-fines-form-resolve-immigration-fines-in-brazil
-│  ├─ se-fines-list-quick-facts
-│  ├─ se-fines-list-common-challenges-applicants-face
-│  ├─ se-fines-list-how-we-solve-these-challenges
-│  ├─ se-fines-section-service-overview
-│  ├─ se-fines-form-who-is-this-service-for
-│  ├─ se-fines-list-required-documents
-│  ├─ se-fines-list-process
-│  ├─ se-fines-section-timelines-deadlines
-│  ├─ se-fines-section-fees-costs
-│  ├─ se-fines-list-risks-common-mistakes
-│  ├─ se-fines-section-diy-vs-professional-assistance
-│  ├─ se-fines-section-sergipe-specific-context
-│  ├─ se-fines-section-what-our-clients-say
-│  ├─ se-fines-section-frequently-asked-questions
-│  ├─ se-fines-section-international-support
-│  ├─ application-form
-│  ├─ se-fines-list-our-credentials
-│  ├─ se-fines-list-related-services
-│  ├─ se-fines-section-youre-in-good-hands
-│  ├─ se-fines-section-21
-
-├─ deportation.html
-│  ├─ se-deportation-form-deportation-assistance-in-brazil
-│  ├─ se-deportation-list-quick-facts
-│  ├─ se-deportation-list-common-challenges-applicants-face
-│  ├─ se-deportation-list-how-we-solve-these-challenges
-│  ├─ se-deportation-section-service-overview
-│  ├─ se-deportation-form-who-is-this-service-for
-│  ├─ se-deportation-list-required-documents
-│  ├─ se-deportation-list-process
-│  ├─ se-deportation-section-timelines-deadlines
-│  ├─ se-deportation-section-fees-costs
-│  ├─ se-deportation-list-risks-common-mistakes
-│  ├─ se-deportation-section-diy-vs-professional-assistance
-│  ├─ se-deportation-section-sergipe-specific-context
-│  ├─ se-deportation-section-what-our-clients-say
-│  ├─ se-deportation-section-frequently-asked-questions
-│  ├─ se-deportation-section-international-support
-│  ├─ application-form
-│  ├─ se-deportation-list-our-credentials
-│  ├─ se-deportation-list-related-services
-│  ├─ se-deportation-section-youre-in-good-hands
-│  ├─ se-deportation-section-21
-
-├─ translation.html
-│  ├─ se-translation-form-sworn-document-translation-services-in-brazil
-│  ├─ se-translation-list-quick-facts
-│  ├─ se-translation-list-common-challenges-applicants-face
-│  ├─ se-translation-list-how-we-solve-these-challenges
-│  ├─ se-translation-section-service-overview
-│  ├─ se-translation-form-who-is-this-service-for
-│  ├─ se-translation-list-required-documents
-│  ├─ se-translation-list-process
-│  ├─ se-translation-section-timelines-deadlines
-│  ├─ se-translation-section-fees-costs
-│  ├─ se-translation-list-risks-common-mistakes
-│  ├─ se-translation-section-diy-vs-professional-assistance
-│  ├─ se-translation-section-sergipe-specific-context
-│  ├─ se-translation-section-what-our-clients-say
-│  ├─ se-translation-section-frequently-asked-questions
-│  ├─ se-translation-section-international-support
-│  ├─ application-form
-│  ├─ se-translation-list-our-credentials
-│  ├─ se-translation-list-related-services
-│  ├─ se-translation-section-youre-in-good-hands
-│  ├─ se-translation-section-21
-
-├─ expulsion.html
-│  ├─ se-expulsion-form-expulsion-assistance-in-brazil
-│  ├─ se-expulsion-list-quick-facts
-│  ├─ se-expulsion-list-common-challenges-applicants-face
-│  ├─ se-expulsion-list-how-we-solve-these-challenges
-│  ├─ se-expulsion-section-service-overview
-│  ├─ se-expulsion-form-who-is-this-service-for
-│  ├─ se-expulsion-list-required-documents
-│  ├─ se-expulsion-list-process
-│  ├─ se-expulsion-section-timelines-deadlines
-│  ├─ se-expulsion-section-fees-costs
-│  ├─ se-expulsion-list-risks-common-mistakes
-│  ├─ se-expulsion-section-diy-vs-professional-assistance
-│  ├─ se-expulsion-section-sergipe-specific-context
-│  ├─ se-expulsion-section-what-our-clients-say
-│  ├─ se-expulsion-section-frequently-asked-questions
-│  ├─ se-expulsion-section-international-support
-│  ├─ application-form
-│  ├─ se-expulsion-list-our-credentials
-│  ├─ se-expulsion-list-related-services
-│  ├─ se-expulsion-section-youre-in-good-hands
-│  ├─ se-expulsion-section-21
-
-├─ appeals.html
-│  ├─ se-appeals-form-appeal-immigration-denials-in-brazil
-│  ├─ se-appeals-list-quick-facts
-│  ├─ se-appeals-list-common-challenges-applicants-face
-│  ├─ se-appeals-list-how-we-solve-these-challenges
-│  ├─ se-appeals-section-service-overview
-│  ├─ se-appeals-form-who-is-this-service-for
-│  ├─ se-appeals-list-required-documents
-│  ├─ se-appeals-list-appeal-process
-│  ├─ se-appeals-section-timelines-deadlines
-│  ├─ se-appeals-section-fees-costs
-│  ├─ se-appeals-list-risks-common-mistakes
-│  ├─ se-appeals-section-diy-vs-professional-assistance
-│  ├─ se-appeals-section-sergipe-specific-context
-│  ├─ se-appeals-section-what-our-clients-say
-│  ├─ se-appeals-section-frequently-asked-questions
-│  ├─ se-appeals-section-international-support
-│  ├─ application-form
-│  ├─ se-appeals-list-our-credentials
-│  ├─ se-appeals-list-related-services
-│  ├─ se-appeals-section-youre-in-good-hands
-│  ├─ se-appeals-section-21
-
-├─ consular.html
-│  ├─ se-consular-form-consular-services-in-brazil-for-citizens
-│  ├─ se-consular-list-quick-facts
-│  ├─ se-consular-list-common-challenges-applicants-face
-│  ├─ se-consular-list-how-we-solve-these-challenges
-│  ├─ se-consular-section-service-overview
-│  ├─ se-consular-form-who-is-this-service-for
-│  ├─ se-consular-list-required-documents
-│  ├─ se-consular-list-process
-│  ├─ se-consular-section-timelines-deadlines
-│  ├─ se-consular-section-fees-costs
-│  ├─ se-consular-list-risks-common-mistakes
-│  ├─ se-consular-section-diy-vs-professional-assistance
-│  ├─ se-consular-section-sergipe-specific-context
-│  ├─ se-consular-section-what-our-clients-say
-│  ├─ se-consular-section-frequently-asked-questions
-│  ├─ se-consular-section-international-support
-│  ├─ application-form
-│  ├─ se-consular-list-our-credentials
-│  ├─ se-consular-list-related-services
-│  ├─ se-consular-section-youre-in-good-hands
-│  ├─ se-consular-section-21
-
-├─ criminal-records.html
-│  ├─ se-criminalrecords-form-obtain-criminal-records-certificate-in-brazil
-│  ├─ se-criminalrecords-list-quick-facts
-│  ├─ se-criminalrecords-list-common-challenges-applicants-face
-│  ├─ se-criminalrecords-list-how-we-solve-these-challenges
-│  ├─ se-criminalrecords-section-service-overview
-│  ├─ se-criminalrecords-form-who-is-this-service-for
-│  ├─ se-criminalrecords-list-required-documents
-│  ├─ se-criminalrecords-list-process
-│  ├─ se-criminalrecords-section-timelines-deadlines
-│  ├─ se-criminalrecords-section-fees-costs
-│  ├─ se-criminalrecords-list-risks-common-mistakes
-│  ├─ se-criminalrecords-section-diy-vs-professional-assistance
-│  ├─ se-criminalrecords-section-sergipe-specific-context
-│  ├─ se-criminalrecords-section-what-our-clients-say
-│  ├─ se-criminalrecords-section-frequently-asked-questions
-│  ├─ se-criminalrecords-section-international-support
-│  ├─ application-form
-│  ├─ se-criminalrecords-list-our-credentials
-│  ├─ se-criminalrecords-list-related-services
-│  ├─ se-criminalrecords-section-youre-in-good-hands
-│  ├─ se-criminalrecords-section-21
-
-├─ extradition.html
-│  ├─ se-extradition-form-extradition-assistance-in-brazil
-│  ├─ se-extradition-list-quick-facts
-│  ├─ se-extradition-list-common-challenges-applicants-face
-│  ├─ se-extradition-list-how-we-solve-these-challenges
-│  ├─ se-extradition-section-service-overview
-│  ├─ se-extradition-form-who-is-this-service-for
-│  ├─ se-extradition-list-required-documents
-│  ├─ se-extradition-list-process
-│  ├─ se-extradition-section-timelines-deadlines
-│  ├─ se-extradition-section-fees-costs
-│  ├─ se-extradition-list-risks-common-mistakes
-│  ├─ se-extradition-section-diy-vs-professional-assistance
-│  ├─ se-extradition-section-sergipe-specific-context
-│  ├─ se-extradition-section-what-our-clients-say
-│  ├─ se-extradition-section-frequently-asked-questions
-│  ├─ se-extradition-section-international-support
-│  ├─ application-form
-│  ├─ se-extradition-list-our-credentials
-│  ├─ se-extradition-list-related-services
-│  ├─ se-extradition-section-youre-in-good-hands
-│  ├─ se-extradition-section-21
-
-├─ north.html
-│  ├─ se-north-form-discover-the-north-amazon-and-beyond
-│  ├─ se-north-list-quick-facts
-│  ├─ se-north-list-common-challenges-applicants-face
-│  ├─ se-north-list-how-we-solve-these-challenges
-│  ├─ se-north-section-trip-overview
-│  ├─ se-north-form-who-is-this-trip-for
-│  ├─ se-north-list-required-documents
-│  ├─ se-north-list-booking-process
-│  ├─ se-north-section-timelines-deadlines
-│  ├─ se-north-section-fees-costs
-│  ├─ se-north-list-risks-common-mistakes
-│  ├─ se-north-section-diy-vs-professional-assistance
-│  ├─ se-north-section-sergipe-specific-context
-│  ├─ se-north-section-what-our-clients-say
-│  ├─ se-north-section-frequently-asked-questions
-│  ├─ se-north-section-international-support
-│  ├─ application-form
-│  ├─ se-north-list-our-credentials
-│  ├─ se-north-list-related-services
-│  ├─ se-north-section-youre-in-good-hands
-│  ├─ se-north-section-21
+├─ mobile-nav.html
+│  ├─ mobile-nav
 
 ├─ central-west.html
-│  ├─ se-centralwest-form-wild-centralwest-pantanal-and-cerrado
-│  ├─ se-centralwest-list-quick-facts
-│  ├─ se-centralwest-list-common-challenges-applicants-face
-│  ├─ se-centralwest-list-how-we-solve-these-challenges
-│  ├─ se-centralwest-section-trip-overview
-│  ├─ se-centralwest-form-who-is-this-trip-for
-│  ├─ se-centralwest-list-required-documents
-│  ├─ se-centralwest-list-booking-process
-│  ├─ se-centralwest-section-timelines-deadlines
-│  ├─ se-centralwest-section-fees-costs
-│  ├─ se-centralwest-list-risks-common-mistakes
-│  ├─ se-centralwest-section-diy-vs-professional-assistance
-│  ├─ se-centralwest-section-sergipe-specific-context
-│  ├─ se-centralwest-section-what-our-clients-say
-│  ├─ se-centralwest-section-frequently-asked-questions
-│  ├─ se-centralwest-section-international-support
-│  ├─ application-form
-│  ├─ se-centralwest-list-our-credentials
-│  ├─ se-centralwest-list-related-services
-│  ├─ se-centralwest-section-youre-in-good-hands
-│  ├─ se-centralwest-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
-├─ southeast.html
-│  ├─ se-southeast-form-dynamic-southeast-cities-and-history
-│  ├─ se-southeast-list-quick-facts
-│  ├─ se-southeast-list-common-challenges-applicants-face
-│  ├─ se-southeast-list-how-we-solve-these-challenges
-│  ├─ se-southeast-section-trip-overview
-│  ├─ se-southeast-form-who-is-this-trip-for
-│  ├─ se-southeast-list-required-documents
-│  ├─ se-southeast-list-booking-process
-│  ├─ se-southeast-section-timelines-deadlines
-│  ├─ se-southeast-section-fees-costs
-│  ├─ se-southeast-list-risks-common-mistakes
-│  ├─ se-southeast-section-diy-vs-professional-assistance
-│  ├─ se-southeast-section-sergipe-specific-context
-│  ├─ se-southeast-section-what-our-clients-say
-│  ├─ se-southeast-section-frequently-asked-questions
-│  ├─ se-southeast-section-international-support
-│  ├─ application-form
-│  ├─ se-southeast-list-our-credentials
-│  ├─ se-southeast-list-related-services
-│  ├─ se-southeast-section-youre-in-good-hands
-│  ├─ se-southeast-section-21
+├─ north.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ northeast.html
-│  ├─ se-northeast-form-vibrant-northeast-beaches-and-culture
-│  ├─ se-northeast-list-quick-facts
-│  ├─ se-northeast-list-common-challenges-applicants-face
-│  ├─ se-northeast-list-how-we-solve-these-challenges
-│  ├─ se-northeast-section-trip-overview
-│  ├─ se-northeast-form-who-is-this-trip-for
-│  ├─ se-northeast-list-required-documents
-│  ├─ se-northeast-list-booking-process
-│  ├─ se-northeast-section-timelines-deadlines
-│  ├─ se-northeast-section-fees-costs
-│  ├─ se-northeast-list-risks-common-mistakes
-│  ├─ se-northeast-section-diy-vs-professional-assistance
-│  ├─ se-northeast-section-sergipe-specific-context
-│  ├─ se-northeast-section-what-our-clients-say
-│  ├─ se-northeast-section-frequently-asked-questions
-│  ├─ se-northeast-section-international-support
-│  ├─ application-form
-│  ├─ se-northeast-list-our-credentials
-│  ├─ se-northeast-list-related-services
-│  ├─ se-northeast-section-youre-in-good-hands
-│  ├─ se-northeast-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ south.html
-│  ├─ se-south-form-charming-south-wine-and-gauchos
-│  ├─ se-south-list-quick-facts
-│  ├─ se-south-list-common-challenges-applicants-face
-│  ├─ se-south-list-how-we-solve-these-challenges
-│  ├─ se-south-section-trip-overview
-│  ├─ se-south-form-who-is-this-trip-for
-│  ├─ se-south-list-required-documents
-│  ├─ se-south-list-booking-process
-│  ├─ se-south-section-timelines-deadlines
-│  ├─ se-south-section-fees-costs
-│  ├─ se-south-list-risks-common-mistakes
-│  ├─ se-south-section-diy-vs-professional-assistance
-│  ├─ se-south-section-sergipe-specific-context
-│  ├─ se-south-section-what-our-clients-say
-│  ├─ se-south-section-frequently-asked-questions
-│  ├─ se-south-section-international-support
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ southeast.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ derivative.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ extraordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ ordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ provisional.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ reacquisition-citizenship.html
+│  ├─ hero-heading
 │  ├─ application-form
-│  ├─ se-south-list-our-credentials
-│  ├─ se-south-list-related-services
-│  ├─ se-south-section-youre-in-good-hands
-│  ├─ se-south-section-21
+
+├─ reacquisition.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ renouncing-citizenship.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ special.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ apostille.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ appeals.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ authentication.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ company-formation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ consular.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ consultation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cpf.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ criminal-records.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ deportation.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ expulsion.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ extradition.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ fines.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ power-of-attorney.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ rne.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ translation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cplp.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ crnm.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family-reunion.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ health-treatment.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investment.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investor.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ marriage.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ mercosul.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ permanent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ researcher.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ scientific-research.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ skilled-worker.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ startup.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ study.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ temporary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ youth-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ artist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ artistic.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ business.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ crew.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cultural.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ dependent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ diplomatic.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ investor.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ journalist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ medical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ missionary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ official.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ research.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ sports.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ startup.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ student.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ technical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ tourist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ transit.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
